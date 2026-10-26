@@ -1,11 +1,15 @@
 # Configuration & Usage Guide
 
 <p align="center">
-  <img src="Rat-kali-php-Botnet.png" alt="System Monitor Banner" width="700">
+  <img src="wallpapers/Rat-kali-php-Botnet.png" alt="System Monitor Banner" width="700">
 </p>
 
 <p align="center">
-  <img src="Rat-vps-php-Botnet.png" alt="System Monitor Banner" width="700">
+  <img src="wallpapers/Rat-vps-php-Botnet.png" alt="System Monitor Banner" width="700">
+</p>
+
+<p align="center">
+  <img src="wallpapers/Rat-php-Botnet-wallpapers.png" alt="System Monitor Banner" width="700">
 </p>
 
 ## 1. Panel Configuration
@@ -107,8 +111,4 @@ This project is intended for authorized device administration and legitimate sec
 <p align="center">
   <sub>System Monitor Agent · Authorized Use Only</sub>
 </p>
-
-
-
-
 
